@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Questionário Câncer de Mama</string>
+    <string name="SIM">SIM</string>
+    <string name="NAO">NÃO</string>
+    <string name="quest1_tvQuest" >Você sabe quais são os exames realizados para se descobrir precocemente o câncer de mama?</string>
+    <string name="quest2_tvQuest" >Você já ouviu falar no Auto-exame de mamas?</string>  
+    <string name="quest3_tvQuest">Você sabe realizar o Auto-exame de mamas?</string> 
+    <string name="quest4_tvQuest">Você sabe o que avaliar no Auto-exame de mamas?</string> 
+    <string name="quest5_tvQuest">Em que período o Auto-exame deve ser realizado?</string>
+    <string name="quest5_rQualqPer">Em qualquer período</string>
+    <string name="quest5_rPerMens">Duarante o período menstrual</string>
+    <string name="quest5_r1SemAntPerMens">Uma semana antes do período menstrual</string>
+    <string name="quest5_r1SemApsPerMens">Uma semana após o período menstrual</string>    
+    <string name="quest6_tvQuest">Você realiza o Autoexame de mamas?</string>
+    <string name="quest7_tvQuest">Se NÃO, por que?</string>
+    <string name="quest7_rMedo">Medo</string>
+    <string name="quest7_rEsquecimento">Esquecimento</string>
+    <string name="quest7_rVergonha">Vergonha</string>
+    <string name="quest7_rOutros">Outros</string>    
+    <string name="quest8_tvQuest">Homem tem câncer de mama?</string>  
+    <string name="SeSimQuais">Se SIM, qual ou quais?</string>
+    <string name="SeSimOque">Se SIM, o que?</string>
+    <string name="quest7_etSeOutrosOque">Se Outros, o que?</string>
+    <string name="Anterior">Questão Anterior</string>
+    <string name="Proximo">Próxima Questão</string>
+    <string name="Finalizar">Finalizar</string>
+    <string name="Menu">Menu</string>
+    <string name="menu_tvInstrucoes">Selecione o que deseja:</string>
+	<string name="menu_btIniciar">Iniciar Questionário</string>
+	<string	name="menu_btSair">Sair</string>
+	<string name="quest1_tvInfoQualQuest">Questão 1 de 8</string>
+	<string name="quest2_tvInfoQualQuest">Questão 2 de 8</string>
+	<string name="quest3_tvInfoQualQuest">Questão 3 de 8</string>
+	<string name="quest4_tvInfoQualQuest">Questão 4 de 8</string>
+	<string name="quest5_tvInfoQualQuest">Questão 5 de 8</string>
+	<string name="quest6_tvInfoQualQuest">Questão 6 de 8</string>
+	<string name="quest7_tvInfoQualQuest">Questão 7 de 8</string>
+	<string name="quest8_tvInfoQualQuest">Questão 8 de 8</string>
+	<string name="menu_btGerarCSV">Gerar CSV</string>	
+
+</resources>
